@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @irembkilic
+- 👀 I’m interested in computational chemistry.
+- 🌱 I’m currently learning Python + machine learning.
+- 📫 How to reach me: please don't :) just kidding - kilic.i@northeastern.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: The name of my stuffed bunny, which has been with me for more than 15 years, is Matematik (which means Mathematics in English). Nerd enough?
