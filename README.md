@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irembkilic
-- 👀 I’m interested in computational chemistry.
+- 👀 I’m interested in computational chemistry and photochemistry.
 - 🌱 I’m currently learning Python + machine learning.
 - 📫 How to reach me: please don't :) just kidding - kilic.i@northeastern.edu
 - 😄 Pronouns: she/her
